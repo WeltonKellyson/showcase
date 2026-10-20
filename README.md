@@ -46,11 +46,11 @@ Os clientes externos abriam chamados pelo WhatsApp, sem controle, SLA ou histór
 
 <table>
   <tr>
-    <td><img src="images/helphs-dashboard-principal.jpg" alt="HelpHS - Dashboard"/><br/><sub>Dashboard</sub></td>
-    <td><img src="images/helphs-tickets.jpg" alt="HelpHS - Tickets"/><br/><sub>Kanban de tickets</sub></td>
+    <td><img src="images/helphs-dashboard-principal.png" alt="HelpHS - Dashboard"/><br/><sub>Dashboard</sub></td>
+    <td><img src="images/helphs-tickets.png" alt="HelpHS - Tickets"/><br/><sub>Kanban de tickets</sub></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="images/helphs-configuracoes-de-sla.jpg" alt="HelpHS - Configurações de SLA"/><br/><sub>Configuração de SLA por prioridade</sub></td>
+    <td colspan="2"><img src="images/helphs-configuracoes-de-sla.png" alt="HelpHS - Configurações de SLA"/><br/><sub>Configuração de SLA por prioridade</sub></td>
   </tr>
 </table>
 
