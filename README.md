@@ -70,11 +70,11 @@ O projeto mais complexo que já desenvolvi em termos de produto e UX: gestão de
 
 <table>
   <tr>
-    <td><img src="images/talenths-dashboard-principal-do-rh.jpg" alt="TalentHS - Dashboard do RH"/><br/><sub>Dashboard do RH</sub></td>
-    <td><img src="images/talenths-calendario-de-eventos.jpg" alt="TalentHS - Calendário"/><br/><sub>Calendário de eventos</sub></td>
+    <td><img src="images/talenths-metas.png" alt="TalentHS - Metas"/><br/><sub>Metas por time, com peso e acompanhamento mensal e anual</sub></td>
+    <td><img src="images/talenths-calendario-de-eventos.png" alt="TalentHS - Calendário"/><br/><sub>Calendário de eventos</sub></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="images/talenths-apresentacao.jpg" alt="TalentHS - Apresentação"/><br/><sub>Página de apresentação da empresa</sub></td>
+    <td colspan="2"><img src="images/talenths-apresentacao.png" alt="TalentHS - Apresentação"/><br/><sub>Página de apresentação da empresa</sub></td>
   </tr>
 </table>
 
@@ -93,12 +93,12 @@ Controle completo dos ativos da empresa: cadastro, transferências entre setores
 
 <table>
   <tr>
-    <td><img src="images/controlhs-dashboard-principal.jpg" alt="ControlHS - Dashboard"/><br/><sub>Dashboard de patrimônio</sub></td>
-    <td><img src="images/controlhs-gestao-de-transferencia.jpg" alt="ControlHS - Transferências"/><br/><sub>Gestão de transferências</sub></td>
+    <td><img src="images/controlhs-dashboard-principal.png" alt="ControlHS - Dashboard"/><br/><sub>Dashboard de patrimônio</sub></td>
+    <td><img src="images/controlhs-gestao-de-transferencia.png" alt="ControlHS - Transferências"/><br/><sub>Gestão de transferências</sub></td>
   </tr>
   <tr>
     <td><img src="images/controlhs-gestao-de-baixa.jpg" alt="ControlHS - Baixas"/><br/><sub>Baixas patrimoniais</sub></td>
-    <td><img src="images/controlhs-gestao-de-inventario.jpg" alt="ControlHS - Inventário"/><br/><sub>Inventário</sub></td>
+    <td><img src="images/controlhs-gestao-de-inventario.png" alt="ControlHS - Inventário"/><br/><sub>Inventário</sub></td>
   </tr>
 </table>
 
@@ -117,8 +117,8 @@ A assinatura do Pipedrive custava caro e não atendia o fluxo comercial da empre
 
 <table>
   <tr>
-    <td><img src="images/growthhs-dashboard-principal.jpg" alt="GrowthHS - Dashboard"/><br/><sub>Dashboard comercial</sub></td>
-    <td><img src="images/growthhs-automacoes-do-crm.jpg" alt="GrowthHS - Automações"/><br/><sub>Automações do CRM</sub></td>
+    <td><img src="images/growthhs-dashboard-principal.png" alt="GrowthHS - Dashboard"/><br/><sub>Dashboard comercial</sub></td>
+    <td><img src="images/growthhs-automacoes-do-crm.png" alt="GrowthHS - Automações"/><br/><sub>Automações do CRM</sub></td>
   </tr>
 </table>
 
@@ -136,8 +136,8 @@ Os colaboradores abriam chamados de TI pelo WhatsApp. O ChamadosHS organizou o s
 
 <table>
   <tr>
-    <td><img src="images/chamadoshs-dashboard-principal.jpg" alt="ChamadosHS - Dashboard"/><br/><sub>Dashboard</sub></td>
-    <td><img src="images/chamadoshs-gestao-de-chamados.jpg" alt="ChamadosHS - Gestão de chamados"/><br/><sub>Gestão de chamados</sub></td>
+    <td><img src="images/chamadoshs-dashboard-principal.png" alt="ChamadosHS - Dashboard"/><br/><sub>Dashboard</sub></td>
+    <td><img src="images/chamadoshs-gestao-de-chamados.png" alt="ChamadosHS - Gestão de chamados"/><br/><sub>Gestão de chamados</sub></td>
   </tr>
 </table>
 
